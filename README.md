@@ -25,9 +25,10 @@ Make a Game!
 
 ## Excellent Criteria
 - The Code uses at least 2 Design Patterns
-- The Code makes use of advanced C++ Features such as
+- The Code makes use of at least two advanced C++ Features such as
   - runtime polymorphism
   - compile-time polymorphism
   - concepts
   - function pointers
   - collections
+- Adding to above: Those two advanced features solve a problem effectively
