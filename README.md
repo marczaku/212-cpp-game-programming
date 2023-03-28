@@ -7,7 +7,7 @@ Make a Game!
 
 
 ## Passing Criteria
-- Committed regularly
+- Commit regularly
   - A Clear Progression must be visible from your commits
   - If there is a majority of the game made in one commit, you need to redo the assignment
   - This means that you need to do small iterative commits
@@ -21,11 +21,13 @@ Make a Game!
 - 2+ Screenshots
 - 1+ Video
 - Description of the Game in the Readme
+- Upload a Build of the Game
 
 ## Excellent Criteria
 - The Code uses at least 2 Design Patterns
-- The Code uses C++ Features such as
+- The Code makes use of advanced C++ Features such as
   - runtime polymorphism
   - compile-time polymorphism
+  - concepts
   - function pointers
   - collections
