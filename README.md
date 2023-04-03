@@ -5,6 +5,19 @@ Make a Game!
 - What kind of Game doesn't really matter.
 - Use SDL Framework to make it.
 
+Recommendation: Make a Cookie Clicker
+- you click on a button
+- you get a cookie
+- for n cookies you can buy a cookie producer
+- the cookie producer produces cookies in regular intervals
+
+Command Patterns you can use:
+- command for what happens when you click
+- command for when cookies are produced
+- prototype pattern for instantiating more cookied producers
+- observer pattern to update the ui
+- probably many more
+
 
 ## Passing Criteria
 - Commit regularly
