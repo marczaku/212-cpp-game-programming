@@ -11,7 +11,7 @@ Recommendation: Make a Cookie Clicker
 - for n cookies you can buy a cookie producer
 - the cookie producer produces cookies in regular intervals
 
-Command Patterns you can use:
+Design Patterns you can use:
 - command for what happens when you click
 - command for when cookies are produced
 - prototype pattern for instantiating more cookied producers
