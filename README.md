@@ -34,6 +34,8 @@ Design Patterns you can use:
 - 2+ Screenshots
 - 1+ Video
 - Description of the Game in the Readme
+- Description of the Design Patterns and Advanced C++ Features used in the README
+  - Only the documentated Design Pattenrs count towards your Passing and Excellent Criteria
 - Upload a Build of the Game
 
 ## Excellent Criteria
